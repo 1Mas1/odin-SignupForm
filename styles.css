@@ -29,7 +29,12 @@ body {
     color: white;
 }
 
-
+p.reference {
+    display: flex;
+    font-size: 14px;
+    justify-content: center;
+    
+}
 .banner {
     display: flex;
     justify-content: center;
@@ -45,9 +50,6 @@ body {
     height: 125px;
 }
 
-.content .reference {
-    font-size: 14px
-}
 
 a:link{
     color: white;
